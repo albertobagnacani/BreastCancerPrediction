@@ -7,6 +7,9 @@ In the notebook you can:
 - look at the training of different models
 - observe a final comparison between them
 
+# Dataset
+https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
+
 # Goals and metrics
 In the notebook and in the /res/plots/ folder it's possible to observe more of results/metrics of the project; below are reported some of these.
 
@@ -23,5 +26,3 @@ N.B.: it's possible to find some suffix in the model names:
 ![ROC_AUC plot](res/plots/roc_auc.png)
 ### Confusion matrices
 ![Confusion matrices plot](res/plots/confusion_matrix.png)
-# Dataset
-https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
