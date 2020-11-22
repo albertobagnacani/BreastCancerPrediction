@@ -25,9 +25,3 @@ N.B.: it's possible to find some suffix in the model names:
 ![Confusion matrices plot](res/plots/confusion_matrix.png)
 # Dataset
 https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
-# Project presentation
-https://docs.google.com/presentation/d/1ifHdplrpXjloy3NDSXhyJskzmU1bi2iQH_5L9OyQQLc/edit?usp=sharing
-# Contacts and notes
-This is my first ML project, thought for the Artificial Intelligence course c/o University of Bologna.
-
-Alberto Bagnacani - albertobagnacani@gmail.com
